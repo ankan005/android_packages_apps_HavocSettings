@@ -695,19 +695,19 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/jmjxperia" />
-         </Preference>
+        </Preference>		
 
-         <Preference
-            android:id="@+id/device_rolex"
+        <Preference
+            android:id="@+id/device_bacon"
             android:icon="@drawable/havoc_device"
-            android:summary="@string/device_rolex_summary"
-            android:title="@string/device_rolex" >
+            android:summary="@string/device_bacon_summary"
+            android:title="@string/device_bacon" >
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/Ankan005" />
+                android:data="https://t.me/ClintT" />
         </Preference>
 
-        </Preference
+        <Preference
             android:id="@+id/device_riva"
             android:icon="@drawable/havoc_device"
             android:summary="@string/device_riva_summary"
@@ -716,5 +716,8 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/Ankan005" />
         </Preference>
+
+
+
     </PreferenceCategory>
 </PreferenceScreen>

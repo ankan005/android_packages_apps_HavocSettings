@@ -220,4 +220,10 @@
     <string name="device_yureka2" translatable="false">YU Yureka 2</string>
     <string name="device_yureka2_summary" translatable="false">YUREKA2\nJathin (jmjxperia)</string>
 
+    <string name="device_rolex" translatable="false">Redmi 4A</string>
+    <string name="device_rolex_summary" translatable="false">rolex\nAnkan Ghosh (ankan005)</string>
+
+    <string name="device_riva" translatable="false">Redmi 5A</string>
+    <string name="device_riva_summary" translatable="false">riva\nAnkan Ghosh (ankan005)</string>
+
 </resources>
